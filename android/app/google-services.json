@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "240729433331",
+    "firebase_url": "https://hydroponicsproject-29703-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hydroponicsproject-29703",
+    "storage_bucket": "hydroponicsproject-29703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240729433331:android:fa9409957dda2bbf104386",
+        "android_client_info": {
+          "package_name": "com.example.nonghidro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUyvDJEFxCXQmZ1kiDykIxRjGmo2V2kq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

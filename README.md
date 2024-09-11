@@ -1,16 +1,17 @@
-# nonghidro
+# Nong Hidro 🌿
 
-A new Flutter project.
+## 📝 Project Description
+Developed the **Nong Hidro** app using **Dart/Flutter** and **Firebase** to monitor hydroponic vegetable systems in real-time. The app receives data from an **Arduino** device, displaying key environmental metrics such as temperature, humidity, and nutrient levels to help farmers track the health of their crops.
 
-## Getting Started
+![Build Status](https://img.shields.io/badge/build-Complete-brightgreen)
 
-This project is a starting point for a Flutter application.
+## Table of Contents
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+- 🌡️ **Real-time monitoring**: Displays current temperature, humidity, and nutrient levels for hydroponic systems.
+- 📡 **Arduino integration**: Data is fetched directly from Arduino sensors installed in the farm.
+- 📊 **Firebase backend**: Utilizes Firebase for storing and retrieving real-time sensor data.
+- 📱 **Responsive mobile design**: Optimized for use on mobile devices.

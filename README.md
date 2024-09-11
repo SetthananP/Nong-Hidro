@@ -17,6 +17,10 @@ Developed the **Nong Hidro** app using **Dart/Flutter** and **Firebase** to moni
 - 📱 **Responsive mobile design**: Optimized for use on mobile devices.
 
 ## Screenshots
+Demo Video
+
+https://github.com/user-attachments/assets/d0106920-230d-46da-9ae7-8068df6518c0
+
 
 
 ## Installation

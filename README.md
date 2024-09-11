@@ -21,6 +21,10 @@ Developed the **Nong Hidro** app using **Dart/Flutter** and **Firebase** to moni
 
 https://github.com/user-attachments/assets/d0106920-230d-46da-9ae7-8068df6518c0
 
+**Here This is my Report**
+
+https://drive.google.com/file/d/1FAuqQ38ivCkmIemWDJ5AH57NG_mMKzfn/view?usp=sharing
+
 
 
 ## Installation

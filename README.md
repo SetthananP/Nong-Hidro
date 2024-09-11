@@ -16,6 +16,9 @@ Developed the **Nong Hidro** app using **Dart/Flutter** and **Firebase** to moni
 - 📊 **Firebase backend**: Utilizes Firebase for storing and retrieving real-time sensor data.
 - 📱 **Responsive mobile design**: Optimized for use on mobile devices.
 
+## Screenshots
+
+
 ## Installation
 To run this project locally:
 

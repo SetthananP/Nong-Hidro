@@ -15,3 +15,22 @@ Developed the **Nong Hidro** app using **Dart/Flutter** and **Firebase** to moni
 - 📡 **Arduino integration**: Data is fetched directly from Arduino sensors installed in the farm.
 - 📊 **Firebase backend**: Utilizes Firebase for storing and retrieving real-time sensor data.
 - 📱 **Responsive mobile design**: Optimized for use on mobile devices.
+
+## Installation
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SetthananP/Nong-Hidro.git
+
+2. Navigate into the project directory:
+   ```bash
+   cd Nong-Hidro
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+
+4. Run the app:
+   ```bash
+   flutter run
